@@ -1,0 +1,7 @@
+C:\Users\xudab\Documents\Visual Studio 2012\Projects\EWS_NTLM_MAIL\EWS_NTLM_MAIL\bin\Debug\EWS_NTLM_MAIL.exe.config
+C:\Users\xudab\Documents\Visual Studio 2012\Projects\EWS_NTLM_MAIL\EWS_NTLM_MAIL\bin\Debug\EWS_NTLM_MAIL.exe
+C:\Users\xudab\Documents\Visual Studio 2012\Projects\EWS_NTLM_MAIL\EWS_NTLM_MAIL\bin\Debug\EWS_NTLM_MAIL.pdb
+C:\Users\xudab\Documents\Visual Studio 2012\Projects\EWS_NTLM_MAIL\EWS_NTLM_MAIL\obj\Debug\EWS_NTLM_MAIL.exe
+C:\Users\xudab\Documents\Visual Studio 2012\Projects\EWS_NTLM_MAIL\EWS_NTLM_MAIL\obj\Debug\EWS_NTLM_MAIL.pdb
+C:\Users\xudab\Documents\Visual Studio 2012\Projects\EWS_NTLM_MAIL\EWS_NTLM_MAIL\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\xudab\Documents\Visual Studio 2012\Projects\EWS_NTLM_MAIL\EWS_NTLM_MAIL\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml

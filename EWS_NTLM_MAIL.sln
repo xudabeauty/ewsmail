@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EWS_NTLM_MAIL", "EWS_NTLM_MAIL\EWS_NTLM_MAIL.csproj", "{8E098342-0B01-4C53-9457-38848914187C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E098342-0B01-4C53-9457-38848914187C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E098342-0B01-4C53-9457-38848914187C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E098342-0B01-4C53-9457-38848914187C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E098342-0B01-4C53-9457-38848914187C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
